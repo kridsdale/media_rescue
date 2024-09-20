@@ -2,6 +2,8 @@
 
 **THIS README WAS WRITEN BY AI SO IT'S NOT LEGALLY BINDING**
 
+### See a sample of the data this produces [here](https://docs.google.com/spreadsheets/d/1aS3vE4cL0EKVV0CHE_XSWkSnuO1hEA92cxnj5be6vYY/edit?usp=sharing)
+
 This Python script is designed to help organize media files for use with Plex Media Server. The script categorizes, renames, and moves media files into appropriate directories following Plex's naming conventions. It also reorganizes existing media files into sensible collections and subgroupings, making it easier to manage large libraries.
 
 ## Features
